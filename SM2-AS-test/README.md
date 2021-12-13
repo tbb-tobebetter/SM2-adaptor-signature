@@ -18,7 +18,7 @@ The current implementation is based on OpenSSL library. See the installment inst
 
 1. Download [openssl-master.zip](https://github.com/openssl/openssl.git)
 
-2. make a directory "openssl" to save the source codes of MIRACL
+2. make a directory "openssl" to save the source codes
 
 ```
     mkdir openssl
